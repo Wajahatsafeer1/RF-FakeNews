@@ -17,10 +17,10 @@ st.subheader("Enter a news article below to check if it's real or fake.")
 st.sidebar.title("📌 Project Details")
 st.sidebar.markdown("**Project:** Fake News Detector")  
 st.sidebar.markdown("**Institute:** Abbottabad University of Science and Technology")  
-st.sidebar.markdown("**Supervisor:** Kinza Khurshid")  
+st.sidebar.markdown("**Supervisor:** Kinza Khursheed")  
 st.sidebar.markdown("**Group Members:**")  
 st.sidebar.markdown("- Wajahat Safeer")  
-st.sidebar.markdown("- Syed Noman Trimzi")   
+st.sidebar.markdown("- Syed Nouman Trimzi")   
 
 # User Input
 user_input = st.text_area("Paste the news content here:", "")
